@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-vidtube/static/css/main.fcc005ff.chunk.css",
+    "main.js": "/react-vidtube/static/js/main.e2ab911a.chunk.js",
+    "main.js.map": "/react-vidtube/static/js/main.e2ab911a.chunk.js.map",
+    "runtime-main.js": "/react-vidtube/static/js/runtime-main.338535ec.js",
+    "runtime-main.js.map": "/react-vidtube/static/js/runtime-main.338535ec.js.map",
+    "static/js/2.98b5c135.chunk.js": "/react-vidtube/static/js/2.98b5c135.chunk.js",
+    "static/js/2.98b5c135.chunk.js.map": "/react-vidtube/static/js/2.98b5c135.chunk.js.map",
+    "index.html": "/react-vidtube/index.html",
+    "precache-manifest.ef19e11eb9300358c7417108e0882632.js": "/react-vidtube/precache-manifest.ef19e11eb9300358c7417108e0882632.js",
+    "service-worker.js": "/react-vidtube/service-worker.js",
+    "static/css/main.fcc005ff.chunk.css.map": "/react-vidtube/static/css/main.fcc005ff.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.338535ec.js",
+    "static/js/2.98b5c135.chunk.js",
+    "static/css/main.fcc005ff.chunk.css",
+    "static/js/main.e2ab911a.chunk.js"
+  ]
+}
